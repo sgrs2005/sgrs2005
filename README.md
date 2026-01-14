@@ -59,11 +59,7 @@ Sugestão de símbolos de círculo (você pode escolher os que curtir mais):
 - Vazio: `◌` `⚪`
 
 ---
-<!-- 👾 GRÁFICOS DE ESTATÍSTICAS (COLOQUE SEU USUÁRIO) 👾 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" />
-</div>
+
 ## 📂 Onde está meu estudo
 
 ### Repositórios principais
@@ -80,7 +76,6 @@ Sugestão de símbolos de círculo (você pode escolher os que curtir mais):
     - Ferramentas testadas  
     - Comandos úteis  
     - Pequenos experimentos e resultados
-      
 
 > A ideia é que qualquer pessoa consiga ver claramente como estou evoluindo ao abrir esses repositórios.
 
@@ -90,4 +85,62 @@ Sugestão de símbolos de círculo (você pode escolher os que curtir mais):
 
 Mesmo que os códigos ainda sejam simples, tudo entra aqui como histórico de evolução.
 
+```python
+# Exemplo ilustrativo de script futuro
+alvo = "127.0.0.1"
 
+def escanear(alvo):
+    print(f"[+] Escaneando alvo: {alvo}")
+    # TODO: adicionar lógica real assim que eu aprender
+
+escanear(alvo)
+<!-- 🧪 Banner (opcional - faça upload de uma imagem hacker) -->
+<p align="center">
+  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/raw/main/banner.png" alt="Hacker banner" />
+</p>
+
+<!-- 👾 GRÁFICOS DE ESTATÍSTICAS (COLOQUE SEU USUÁRIO) 👾 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" />
+</div>
+
+<h1 align="center">👾 Laboratório de Cibersegurança 👾</h1>
+
+<p align="center">
+  <i>Estudante de Ciência da Computação | Salvador - BA | Hacking Ético</i>
+</p>
+
+---
+
+## 🧬 Sobre mim
+Estudante de CS focado em segurança ofensiva. Este perfil é meu **diário público** de aprendizado e evolução.
+
+---
+
+## 🎚️ Evolução da Faculdade
+
+| Semestre | Status | Progresso |
+|----------|--------|-----------|
+| 1º       | 🟢     | ◉ 100%    |
+| 2º       | 🟢     | ◉ 100%    |
+| 3º       | 🟡     | ◐ 60%     |
+| 4º       | ⚪     | ◌ 0%      |
+
+---
+
+## 📂 Repositórios principais
+- `roadmap-ciberseguranca` - Plano de estudos completo  
+- `notas-facul` - Anotações da faculdade  
+- `lab-seguranca-inicial` - Experimentos e testes  
+
+---
+
+## 🧪 Próximos passos
+- Fundamentos de programação (Python/C)  
+- Redes e Linux  
+- Laboratórios de pentest básicos  
+
+<p align="center">
+  <i>"Exploit the system. Learn from it."</i>
+</p>
