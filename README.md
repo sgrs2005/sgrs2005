@@ -59,16 +59,6 @@ Sugestão de símbolos de círculo (você pode escolher os que curtir mais):
 - Vazio: `◌` `⚪`
 
 ---
-<!-- 📊 Gráficos de estatísticas do GitHub -->
-<div align="center">
-
-<!-- Stats Card (commits, PRs, issues, etc.) -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&hide_border=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Top Languages Card (linguagens mais usadas) -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ## 📂 Onde está meu estudo
 
