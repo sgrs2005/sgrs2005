@@ -1,7 +1,7 @@
-
+<!-- 🧪 Banner / Foto -->
 <p align="center">
-
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS42bYhYkbiRacxb33q8NzY3REbKkHQ3jE-aA&s" />
+  <!-- Troque a URL abaixo por uma imagem sua ou um banner hacker (pode ser do próprio repositório) -->
+  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/raw/main/banner.png" alt="Hacker banner" />
 </p>
 
 <h1 align="center">👾 Bem-vindo ao meu Laboratório Digital 👾</h1>
@@ -10,6 +10,7 @@
   <i>Estudante de Ciência da Computação • Segurança Ofensiva em Construção</i>
 </p>
 
+---
 
 ## 🧬 Quem sou eu
 
@@ -17,7 +18,7 @@
 - Focado em cibersegurança, hacking ético e low-level (entender sistemas por dentro).  
 - Uso este perfil como diário público de estudo e evolução.
 
-
+---
 
 ## 🛰️ Radar Atual
 
@@ -27,6 +28,7 @@
 - 🧪 Montando e ajustando laboratório com VMs e ferramentas.  
 - 🔐 Objetivo de médio prazo: ficar confortável com pentest básico em redes e aplicações web.
 
+---
 
 ## 🎚️ Evolução da Faculdade (Círculos)
 
@@ -38,13 +40,30 @@
 <!-- Legenda dos círculos: 
 ⚪ = não iniciado | 🟢 = concluído | 🟡 = em andamento 
 Você pode ajustar como quiser 
-     alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+-->
 
-</p>
+| Semestre | Status | Progresso | Foco principal |
+|---------|--------|-----------|----------------|
+| 1º      | 🟢     | ◉ 100%    | Fundamentos iniciais, adaptação à área |
+| 2º      | 🟢     | ◉ 100%    | Lógica, algoritmos básicos             |
+| 3º      | 🟡     | ◐ 60%     | Redes, SO, introdução à segurança      |
+| 4º      | ⚪     | ◌ 0%      | Em breve                                |
+| 5º      | ⚪     | ◌ 0%      | Em breve                                |
+| 6º      | ⚪     | ◌ 0%      | Em breve                                |
+| 7º      | ⚪     | ◌ 0%      | Em breve                                |
+| 8º      | ⚪     | ◌ 0%      | Em breve                                |
 
+Sugestão de símbolos de círculo (você pode escolher os que curtir mais):  
+- Cheio: `◉` `⬤` `🟢`  
+- Meio: `◐` `◑` `🟡`  
+- Vazio: `◌` `⚪`
+
+---
+<!-- 👾 GRÁFICOS DE ESTATÍSTICAS (COLOQUE SEU USUÁRIO) 👾 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" />
+</div>
 ## 📂 Onde está meu estudo
 
 ### Repositórios principais
@@ -61,6 +80,7 @@ Você pode ajustar como quiser
     - Ferramentas testadas  
     - Comandos úteis  
     - Pequenos experimentos e resultados
+      
 
 > A ideia é que qualquer pessoa consiga ver claramente como estou evoluindo ao abrir esses repositórios.
 
@@ -70,12 +90,4 @@ Você pode ajustar como quiser
 
 Mesmo que os códigos ainda sejam simples, tudo entra aqui como histórico de evolução.
 
-```python
-# Exemplo ilustrativo de script futuro
-alvo = "127.0.0.1"
 
-def escanear(alvo):
-    print(f"[+] Escaneando alvo: {alvo}")
-    # TODO: adicionar lógica real assim que eu aprender
-
-escanear(alvo)
