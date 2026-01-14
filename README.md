@@ -38,24 +38,12 @@
 <!-- Legenda dos círculos: 
 ⚪ = não iniciado | 🟢 = concluído | 🟡 = em andamento 
 Você pode ajustar como quiser 
--->
+     alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-| Semestre | Status | Progresso | Foco principal |
-|---------|--------|-----------|----------------|
-| 1º      | 🟢     | ◉ 100%    | Fundamentos iniciais, adaptação à área |
-| 2º      | 🟢     | ◉ 100%    | Lógica, algoritmos básicos             |
-| 3º      | 🟡     | ◐ 60%     | Redes, SO, introdução à segurança      |
-| 4º      | ⚪     | ◌ 0%      | Em breve                                |
-| 5º      | ⚪     | ◌ 0%      | Em breve                                |
-| 6º      | ⚪     | ◌ 0%      | Em breve                                |
-| 7º      | ⚪     | ◌ 0%      | Em breve                                |
-| 8º      | ⚪     | ◌ 0%      | Em breve                                |
-
-Sugestão de símbolos de círculo (você pode escolher os que curtir mais):  
-- Cheio: `◉` `⬤` `🟢`  
-- Meio: `◐` `◑` `🟡`  
-- Vazio: `◌` `⚪`
-
+</p>
 
 ## 📂 Onde está meu estudo
 
