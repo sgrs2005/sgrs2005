@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/raw/main/banner.png" alt="Hacker banner" />
+  <img src="https://hackaday.com/wp-content/uploads/2022/03/Hardware-hacking-toolkit-in-progress.jpg" />
 </p>
 
 <h1 align="center">👾 Bem-vindo ao meu Laboratório Digital 👾</h1>
