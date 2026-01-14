@@ -1,6 +1,5 @@
-<!-- 🧪 Banner / Foto -->
+
 <p align="center">
-  <!-- Troque a URL abaixo por uma imagem sua ou um banner hacker (pode ser do próprio repositório) -->
   <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/raw/main/banner.png" alt="Hacker banner" />
 </p>
 
@@ -14,7 +13,7 @@
 
 ## 🧬 Quem sou eu
 
-- Estudante de **Ciência** da Computação em Salvador - BA.  
+- Estudante de Ciencias da Computação em Vitoria da Conquista - BA.  
 - Focado em cibersegurança, hacking ético e low-level (entender sistemas por dentro).  
 - Uso este perfil como diário público de estudo e evolução.
 
@@ -30,7 +29,7 @@
 
 ---
 
-## 🎚️ Evolução da Faculdade (Círculos)
+## 🎚️ Evolução da Faculdade
 
 ### Status por semestre
 
@@ -53,44 +52,5 @@ Você pode ajustar como quiser
 | 7º      | ⚪     | ◌ 0%      | Em breve                                |
 | 8º      | ⚪     | ◌ 0%      | Em breve                                |
 
-Sugestão de símbolos de círculo (você pode escolher os que curtir mais):  
-- Cheio: `◉` `⬤` `🟢`  
-- Meio: `◐` `◑` `🟡`  
-- Vazio: `◌` `⚪`
 
----
 
-## 📂 Onde está meu estudo
-
-### Repositórios principais
-
-- `roadmap-ciberseguranca`  
-  - Meu plano detalhado para sair do zero até pentest: fundamentos de CS, programação, redes, Linux, ferramentas, certificações, etc.
-
-- `notas-facul`  
-  - Resumos, exercícios e anotações das disciplinas da faculdade, organizados por semestre e matéria.
-
-- `lab-seguranca-inicial`  
-  - Diário de laboratório:  
-    - VMs usadas  
-    - Ferramentas testadas  
-    - Comandos úteis  
-    - Pequenos experimentos e resultados
-
-> A ideia é que qualquer pessoa consiga ver claramente como estou evoluindo ao abrir esses repositórios.
-
----
-
-## 🧪 Códigos, testes e snippets
-
-Mesmo que os códigos ainda sejam simples, tudo entra aqui como histórico de evolução.
-
-```python
-# Exemplo ilustrativo de script futuro
-alvo = "127.0.0.1"
-
-def escanear(alvo):
-    print(f"[+] Escaneando alvo: {alvo}")
-    # TODO: adicionar lógica real assim que eu aprender
-
-escanear(alvo)
