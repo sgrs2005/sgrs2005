@@ -9,7 +9,6 @@
   <i>Estudante de Ciência da Computação • Segurança Ofensiva em Construção</i>
 </p>
 
----
 
 ## 🧬 Quem sou eu
 
@@ -17,7 +16,6 @@
 - Focado em cibersegurança, hacking ético e low-level (entender sistemas por dentro).  
 - Uso este perfil como diário público de estudo e evolução.
 
----
 
 ## 🛰️ Radar Atual
 
@@ -27,7 +25,6 @@
 - 🧪 Montando e ajustando laboratório com VMs e ferramentas.  
 - 🔐 Objetivo de médio prazo: ficar confortável com pentest básico em redes e aplicações web.
 
----
 
 ## 🎚️ Evolução da Faculdade
 
