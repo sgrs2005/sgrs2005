@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://hackaday.com/wp-content/uploads/2022/03/Hardware-hacking-toolkit-in-progress.jpg" />
+  <img src="" />
 </p>
 
 <h1 align="center">👾 Bem-vindo ao meu Laboratório Digital 👾</h1>
