@@ -1,43 +1,96 @@
-Samuel Gusmão
-<p align="center">
-  <img src="https://github.com/Samuel/Samuel/raw/main/banner.png" alt="Hacker banner" />
-</p>
-
-<h1 align="center">👾 Bem-vindo ao meu laboratório digital 👾</h1>
 
 <p align="center">
-  <i>Estudante de Ciência da Computação | Futuro especialista em segurança ofensiva</i>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS42bYhYkbiRacxb33q8NzY3REbKkHQ3jE-aA&s" />
+</p>
+
+<h1 align="center">👾 Bem-vindo ao meu Laboratório Digital 👾</h1>
+
+<p align="center">
+  <i>Estudante de Ciência da Computação • Segurança Ofensiva em Construção</i>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🧬 Quem sou eu
 
-- Estudante de **Ciência** da Computação em Vitoria da Conquista - BA.  
-- interessado por cibersegurança, hacking ético e entender como as coisas funcionam.  
-- Construindo minha base em lógica de programação, sistemas operacionais, redes e segurança.
-
----
-
-## 🛰️ Status atual
-
-- 🔎 Explorando fundamentos de computação e segurança.  
-- 📚 Estudando: lógica de programação, Linux, redes e fundamentos de pentest.  
-- 🧪 Montando meu ambiente de laboratório (VMs, ferramentas, anotações e testes).
+- Estudante de **Ciência** da Computação em Salvador - BA.  
+- Focado em cibersegurança, hacking ético e low-level (entender sistemas por dentro).  
+- Uso este perfil como diário público de estudo e evolução.
 
 ---
 
-## 📡 Potenciômetro da faculdade
+## 🛰️ Radar Atual
 
-Minha evolução por semestre vai aparecer aqui como um “potenciômetro” de progresso.  
-Vou atualizando conforme avanço nas disciplinas.
+> Tudo que estou focando neste momento.
 
-```text
-1º semestre: [#####---------------] Fundamentos iniciais
-2º semestre: [########------------] Lógica, estruturas básicas
-3º semestre: [###########---------] Redes, SO, segurança básica
-4º semestre: [#############-------]
-5º semestre: [################----]
-6º semestre: [##################--]
-7º semestre: [###################-]
-8º semestre: [####################] Conclusão
+- 📚 Estudando: lógica de programação, Linux, redes, fundamentos de segurança.  
+- 🧪 Montando e ajustando laboratório com VMs e ferramentas.  
+- 🔐 Objetivo de médio prazo: ficar confortável com pentest básico em redes e aplicações web.
+
+---
+
+## 🎚️ Evolução da Faculdade (Círculos)
+
+### Status por semestre
+
+> Cada círculo representa um semestre da faculdade.  
+> Conforme eu evoluir, vou preencher com porcentagem e breve descrição.
+
+<!-- Legenda dos círculos: 
+⚪ = não iniciado | 🟢 = concluído | 🟡 = em andamento 
+Você pode ajustar como quiser 
+-->
+
+| Semestre | Status | Progresso | Foco principal |
+|---------|--------|-----------|----------------|
+| 1º      | 🟢     | ◉ 100%    | Fundamentos iniciais, adaptação à área |
+| 2º      | 🟢     | ◉ 100%    | Lógica, algoritmos básicos             |
+| 3º      | 🟡     | ◐ 60%     | Redes, SO, introdução à segurança      |
+| 4º      | ⚪     | ◌ 0%      | Em breve                                |
+| 5º      | ⚪     | ◌ 0%      | Em breve                                |
+| 6º      | ⚪     | ◌ 0%      | Em breve                                |
+| 7º      | ⚪     | ◌ 0%      | Em breve                                |
+| 8º      | ⚪     | ◌ 0%      | Em breve                                |
+
+Sugestão de símbolos de círculo (você pode escolher os que curtir mais):  
+- Cheio: `◉` `⬤` `🟢`  
+- Meio: `◐` `◑` `🟡`  
+- Vazio: `◌` `⚪`
+
+---
+
+## 📂 Onde está meu estudo
+
+### Repositórios principais
+
+- `roadmap-ciberseguranca`  
+  - Meu plano detalhado para sair do zero até pentest: fundamentos de CS, programação, redes, Linux, ferramentas, certificações, etc.
+
+- `notas-facul`  
+  - Resumos, exercícios e anotações das disciplinas da faculdade, organizados por semestre e matéria.
+
+- `lab-seguranca-inicial`  
+  - Diário de laboratório:  
+    - VMs usadas  
+    - Ferramentas testadas  
+    - Comandos úteis  
+    - Pequenos experimentos e resultados
+
+> A ideia é que qualquer pessoa consiga ver claramente como estou evoluindo ao abrir esses repositórios.
+
+---
+
+## 🧪 Códigos, testes e snippets
+
+Mesmo que os códigos ainda sejam simples, tudo entra aqui como histórico de evolução.
+
+```python
+# Exemplo ilustrativo de script futuro
+alvo = "127.0.0.1"
+
+def escanear(alvo):
+    print(f"[+] Escaneando alvo: {alvo}")
+    # TODO: adicionar lógica real assim que eu aprender
+
+escanear(alvo)
