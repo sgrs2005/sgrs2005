@@ -43,9 +43,9 @@ Você pode ajustar como quiser
 
 | Semestre | Status | Progresso | Foco principal |
 |---------|--------|-----------|----------------|
-| 1º      | 🟢     | ◉ 100%    | Fundamentos iniciais, adaptação à área |
-| 2º      | 🟢     | ◉ 100%    | Lógica, algoritmos básicos             |
-| 3º      | 🟡     | ◐ 60%     | Redes, SO, introdução à segurança      |
+| 1º      | 🟢     | ◉ 100%    | Introdução à Programação Estruturada em C,Pensamento Computacional,Arquitetura de Computadores,Sistemas de Informação e Sociedade,Fundamentos de Redes de Computadores. |
+| 2º      | 🟢     | ◉ 100%    | Desenv. Web em Html5, Css, Javascript e Php,Introducao a Seguranca da Informação,Programação Para Dispositivos Móveis em Android,Banco de Dados|
+| 3º      | 🟡     | ◌ 0%      | Em breve                                |
 | 4º      | ⚪     | ◌ 0%      | Em breve                                |
 | 5º      | ⚪     | ◌ 0%      | Em breve                                |
 | 6º      | ⚪     | ◌ 0%      | Em breve                                |
