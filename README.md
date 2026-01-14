@@ -33,13 +33,6 @@
 
 ### Status por semestre
 
-> Cada círculo representa um semestre da faculdade.  
-> Conforme eu evoluir, vou preencher com porcentagem e breve descrição.
-
-<!-- Legenda dos círculos: 
-⚪ = não iniciado | 🟢 = concluído | 🟡 = em andamento 
-Você pode ajustar como quiser 
--->
 
 | Semestre | Status | Progresso | Foco principal |
 |---------|--------|-----------|----------------|
