@@ -19,7 +19,6 @@
 
 ## 🛰️ Radar Atual
 
-> Tudo que estou focando neste momento.
 
 - 📚 Estudando: lógica de programação, Linux, redes, fundamentos de segurança.  
 - 🧪 Montando e ajustando laboratório com VMs e ferramentas.  
